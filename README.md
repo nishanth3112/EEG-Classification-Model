@@ -1,4 +1,4 @@
-# EEG Datasets for Seizure Detection
+# EEG Classification Model
 
 This project utilizes two comprehensive EEG datasets to train, validate, and test deep learning models for epileptic seizure detection.
 
