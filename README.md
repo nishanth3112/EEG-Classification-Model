@@ -12,7 +12,7 @@ Key Features:
 High-quality EEG recordings.
 Diverse data with a mix of seizure types and non-seizure events.
 Pediatric-focused dataset.
-
+##### Link to the dataset - https://physionet.org/content/chbmit/1.0.0/
 ### 2. Bonn EEG Dataset
 Description: A specialized dataset maintained by the University of Bonn, Germany, focusing on epileptic seizures.
 Focus:
@@ -21,7 +21,7 @@ Applications: Used extensively in research to develop seizure detection and pred
 Key Features:
 Emphasis on seizure-related EEG data.
 Rich dataset suitable for studying seizure patterns and developing accurate classification models.
-
+##### Link to the dataset - https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-lehnertz-neurophysik/downloads/
 ## Significance in the Project
 The CHB-MIT EEG Database provides a balanced view of seizure and non-seizure EEG recordings, essential for training models to distinguish between normal and abnormal brain activities.
 The Bonn EEG Dataset enriches the training process with a focused collection of seizure-specific EEG data, improving the model's ability to classify and detect seizure events.
